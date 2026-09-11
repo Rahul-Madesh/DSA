@@ -24,13 +24,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Rahul-Madesh/DSA/tree/master/0414-third-maximum-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rahul-Madesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rahul-Madesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Rahul-Madesh/DSA/tree/master/0414-third-maximum-number) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rahul-Madesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rahul-Madesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
