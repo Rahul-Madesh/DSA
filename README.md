@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Rahul-Madesh/DSA/tree/master/0414-third-maximum-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rahul-Madesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rahul-Madesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Rahul-Madesh/DSA/tree/master/3731-find-missing-elements) |
