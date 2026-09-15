@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rahul-Madesh/DSA/tree/master/0008-string-to-integer-atoi) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rahul-Madesh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Rahul-Madesh/DSA/tree/master/1323-maximum-69-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rahul-Madesh/DSA/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
