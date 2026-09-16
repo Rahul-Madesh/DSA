@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Rahul-Madesh/DSA/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahul-Madesh/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Rahul-Madesh/DSA/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul-Madesh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rahul-Madesh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rahul-Madesh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -117,8 +119,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul-Madesh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahul-Madesh/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
