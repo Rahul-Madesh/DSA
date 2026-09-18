@@ -1,16 +1,15 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
-        int[] freq = new int[101];
-        for (int num : nums) {
-            freq[num]++;
+        HashMap<Integer,Integer> mp = new HashMap<>();
+        for(int num : nums){
+            mp.put(num,mp.getOrDefault(num,0)+1);
         }
-        int count = 0;
-
-        for (int i = 0; i < freq.length; i++) {
-            if (freq[i] == 1) {
-                count += i;
+        int sum = 0;
+        for(int n : nums){
+            if(mp.get(n)==1){
+                sum+=n;
             }
         }
-        return count;
+        return sum;
     }
 }
