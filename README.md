@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Rahul-Madesh/DSA/tree/master/0835-image-overlap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul-Madesh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul-Madesh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rahul-Madesh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rahul-Madesh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rahul-Madesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Rahul-Madesh/DSA/tree/master/3731-find-missing-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rahul-Madesh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rahul-Madesh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rahul-Madesh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul-Madesh/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rahul-Madesh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
