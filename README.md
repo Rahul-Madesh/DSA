@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul-Madesh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rahul-Madesh/DSA/tree/master/0008-string-to-integer-atoi) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rahul-Madesh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Rahul-Madesh/DSA/tree/master/1748-sum-of-unique-elements) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Rahul-Madesh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
