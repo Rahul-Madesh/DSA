@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rahul-Madesh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Rahul-Madesh/DSA/tree/master/0835-image-overlap) |
+| [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul-Madesh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul-Madesh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rahul-Madesh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Rahul-Madesh/DSA/tree/master/0414-third-maximum-number) |
+| [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rahul-Madesh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Rahul-Madesh/DSA/tree/master/3731-find-missing-elements) |
 ## Recursion
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/Rahul-Madesh/DSA/tree/master/1323-maximum-69-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahul-Madesh/DSA/tree/master/0141-linked-list-cycle) |
+| [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahul-Madesh/DSA/tree/master/0141-linked-list-cycle) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
