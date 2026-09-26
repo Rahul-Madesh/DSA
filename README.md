@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Rahul-Madesh/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rahul-Madesh/DSA/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahul-Madesh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahul-Madesh/DSA/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Rahul-Madesh/DSA/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rahul-Madesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
