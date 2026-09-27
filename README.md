@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Rahul-Madesh/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rahul-Madesh/DSA/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rahul-Madesh/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Rahul-Madesh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
