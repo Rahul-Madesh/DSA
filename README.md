@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rahul-Madesh/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rahul-Madesh/DSA/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahul-Madesh/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Rahul-Madesh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Rahul-Madesh/DSA/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul-Madesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Rahul-Madesh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul-Madesh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rahul-Madesh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
