@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rahul-Madesh/DSA/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Rahul-Madesh/DSA/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/Rahul-Madesh/DSA/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul-Madesh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
