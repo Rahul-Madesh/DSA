@@ -8,7 +8,7 @@ class Solution {
             else{
                 c--;
                 if(s.charAt(i-1)=='('){
-                    score += 1<<c;
+                   score += Math.pow(2, c);
                 }
             }
         }
