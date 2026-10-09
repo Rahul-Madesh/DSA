@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Rahul-Madesh/DSA/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/Rahul-Madesh/DSA/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul-Madesh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul-Madesh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rahul-Madesh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
