@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rahul-Madesh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Rahul-Madesh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahul-Madesh/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Rahul-Madesh/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0835-image-overlap](https://github.com/Rahul-Madesh/DSA/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Rahul-Madesh/DSA/tree/master/0896-monotonic-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rahul-Madesh/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Rahul-Madesh/DSA/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Rahul-Madesh/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Rahul-Madesh/DSA/tree/master/0881-boats-to-save-people) |
 | [2784-check-if-array-is-good](https://github.com/Rahul-Madesh/DSA/tree/master/2784-check-if-array-is-good) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rahul-Madesh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
